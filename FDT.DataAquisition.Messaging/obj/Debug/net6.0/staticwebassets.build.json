@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gWnUASVa7Y4AywDve5XSeUxyy8fZlrqg8JtuDiwnKmY=",
+  "Source": "FDT.DataAquisition.Messaging",
+  "BasePath": "_content/FDT.DataAquisition.Messaging",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
